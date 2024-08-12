@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Naman's / Homepage"
+title                    : "nemondpokemon"
 title_separator          : "-"
 name                     : &name "Naman Pesricha"
 description              : &description "personal description"
