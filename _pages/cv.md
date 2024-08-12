@@ -44,14 +44,14 @@ redirect_from:
 
 ### Vibration analysis of graphene sheets using MSMA and machine learning    
 ##### Jun 2023 – Oct 2023
-* UsedPythonand Ansys APDL to simulate the natural frequency of 190+ different configurations of graphene.
+* Used Python and Ansys APDL to simulate the natural frequency of 190+ different configurations of graphene.
 * Introduced point defects of varying densities and calculated frequencies for the same.
-* UsedaSVMmodeltoclassify graphene sheets into defective and non defective based on their frequencies.
-* Usedregression models to determine natural frequency for graphene sheets with and without defects.
+* Used a SVM model to classify graphene sheets into defective and non defective based on their frequencies.
+* Used regression models to determine natural frequency for graphene sheets with and without defects.
 
 ### MaddyBot                                                                 
 ##### Jun 2023 – Oct 2023
-* Builtadiscord bot using nextcord API that schedules periodic reminders directly using the discord chat.
+* Built a discord bot using nextcord API that schedules periodic reminders directly using the discord chat.
 * Included a daily personalized message on demand unique to each specific user and date.
 
 
