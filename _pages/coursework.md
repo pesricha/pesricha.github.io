@@ -11,23 +11,23 @@ redirect_from:
 
 ## Indian Institute of Science, Bangalore
 
-* E0 225 *Tabspace* Design and Analysis of Algorithms
-* DS 288 *Tabspace* Numerical Methods
-* DS 284 *Tabspace* Numerical Linear Algebra
-* DS 221 *Tabspace* Introduction to Scalable Systems
-* DS 215 *Tabspace* Introduction to Data Science
+* E0 225 Design and Analysis of Algorithms
+* DS 288 Numerical Methods
+* DS 284 Numerical Linear Algebra
+* DS 221 Introduction to Scalable Systems
+* DS 215 Introduction to Data Science
 
 ## Indian Institute of Technology, Roorkee 
 
-* MIN-547 *Tabspace* PRODUCT AND PROCESS OPTIMIZATION
-* MIN-561 *Tabspace* Advanced Mechanical Vibrations
-* MIN-400 *Tabspace* B.Tech. Project
-* MIN-583 *Tabspace* Materials Management
-* MIN-554 *Tabspace* Computer Aided Mechanism Design
-* MIN-499 *Tabspace* Training Seminar
-* MAN-004 *Tabspace* Numerical Methods
-* MAN-001 *Tabspace* Mathematics-I
-* MIN-103 *Tabspace* Programming and Data Structures
+* MIN-547 PRODUCT AND PROCESS OPTIMIZATION
+* MIN-561 Advanced Mechanical Vibrations
+* MIN-400 B.Tech. Project
+* MIN-583 Materials Management
+* MIN-554 Computer Aided Mechanism Design
+* MIN-499 Training Seminar
+* MAN-004 Numerical Methods
+* MAN-001 Mathematics-I
+* MIN-103 Programming and Data Structures
 
 
 
