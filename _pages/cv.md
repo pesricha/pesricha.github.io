@@ -11,26 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Tech in Computational and Data Science, IISc Bangalore, 2024-2026
+* B.Tech in Mechanical Engineering, IIT Roorkee, 2019-2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Software Development Engineer, Truminds Software System           Sep 2023 – Jul 2024
+  * Contributed to test automation initiatives, actively involved in implementing thorough test cases using Pytest.
+  * Optimized codebase using generalized retry logic, effectively reducing redundancy by 90%+.
+  * Developed python scripts for automating repetitive workflows enhancing the operational efficiency.
+  * Maintained and enhanced Flask backend for the lightweight process automation web app.
+  * Skills: Python, Linux, Object Oriented Programming and Automation.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research + Analytics Intern, LeapWallet.io                        Jan 2023 – Feb 2023
+  * Benchmarked 10+ projects on NEAR chain to identify which of them can be incorporated into leapboard.
+  * Developed a token-wise standardization tool for parsing of public blockchain data with 95% coverage.
+  * Developed and automated the small-scale pwroduct testing methodology and automated 5+ business tasks.
+  * Skills: Python, Blockchain, SQL, Analytics and Research.
   
 Skills
 ======

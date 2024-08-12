@@ -24,19 +24,19 @@ author:
   avatar           : "profile_pic.png"
   name             : "Naman Pesricha"
   pronouns         : "mew/purr" 
-  bio              : "IISc Bangalore || IIT Roorkee"
+  bio              : #""
   location         : "India"
-  employer         : "Red Brick University"
+  employer         : "IISc Bangalore"
   uri              : # URL
   email            : "pesricha@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "namanpesricha"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
