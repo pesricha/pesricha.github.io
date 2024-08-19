@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "pesricha"
+# title: "pesricha"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,13 +9,13 @@ redirect_from:
 
 👋 Hi there! I am Naman Pesricha.
 ======
-A graduate student at IISc Bangalore in the Computaional and Data Sciences Department.
+A graduate student at IISc Bangalore in the Computaional and Data Sciences Department. I did my bachelors at IIT Roorkee in the department of Mechanical and Industrial Engineering. 
 
 I have previous research experience with Dr Dhish Kumar Saxena [ IIT-R , EADAL lab ] in the domain of ML assisted Constrained Multi Objective Optimization wherein we were working with RV based optimization algorithms and enhancing their diversity using ML techniques.
 
 I also worked with Dr Sneha Singh [ IIT-R ] wherein we worked on *Vibration analysis of graphene sheets using molecular structural mechanics approach and machine learning* wherein graphene sheets of variable designs and dimensions with different compositions and dopings were modeled and the data from vibrational modes were analyzed and used for building a predictive model for sheet vibrations.
 
-I also have workex as a Software Development Engineer at Truminds Software Systems where in I worked in the HW Development @Cradlepoint team primarily working on Network Automation and Maintaining a lightweight web-app for the same.
+I also have workex as a Software Development Engineer at Truminds Software Systems where in I worked in the HW Development @Cradlepoint team primarily working on Network Automation and Maintaining a lightweight web-app for the same. I also had a short stint with LeapWallet as an Analyst intern where in I satisfied my curiosity about cryptocurrencies and blockchain protocols.
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
