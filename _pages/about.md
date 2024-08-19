@@ -11,7 +11,7 @@ redirect_from:
 ======
 A graduate student at IISc Bangalore in the Computaional and Data Sciences Department.
 
-I have previous research experience with Dr Dhish Kumar Saxena [ IIT-R | EADAL lab ] in the domain of ML assisted Constrained Multi Objective Optimization wherein we were working with RV based optimization algorithms and enhancing their diversity using ML techniques.
+I have previous research experience with Dr Dhish Kumar Saxena [ IIT-R , EADAL lab ] in the domain of ML assisted Constrained Multi Objective Optimization wherein we were working with RV based optimization algorithms and enhancing their diversity using ML techniques.
 
 I also worked with Dr Sneha Singh [ IIT-R ] wherein we worked on *Vibration analysis of graphene sheets using molecular structural mechanics approach and machine learning* wherein graphene sheets of variable designs and dimensions with different compositions and dopings were modeled and the data from vibrational modes were analyzed and used for building a predictive model for sheet vibrations.
 
