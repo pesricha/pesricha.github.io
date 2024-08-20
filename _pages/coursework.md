@@ -7,7 +7,6 @@ redirect_from:
   - /coursework
 ---
 
-{% include base_path %}
 
 ## Indian Institute of Science, Bangalore
 
