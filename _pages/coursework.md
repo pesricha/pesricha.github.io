@@ -10,7 +10,6 @@ redirect_from:
 
 ## Indian Institute of Science, Bangalore
 
-* E0 225 Design and Analysis of Algorithms
 * DS 288 Numerical Methods
 * DS 284 Numerical Linear Algebra
 * DS 221 Introduction to Scalable Systems
