@@ -9,7 +9,7 @@ redirect_from:
 
 👋 Hi there! I am Naman Pesricha.
 ======
-I am a graduate student at IISc Bangalore in the Department of Computational and Data Sciences. I completed my bachelor's degree at IIT Roorkee in the Department of Mechanical and Industrial Engineering.
+I am a graduate student at IISc Bangalore in the Department of Computational and Data Sciences. I completed my bachelor's degree at IIT Roorkee in the Department of Mechanical and Industrial Engineering. I am currently working with [Dr. Phani Motamarri](https://scholar.google.com/citations?user=EEQdPn4AAAAJ&hl=en) at the [MATRIX lab](https://sites.google.com/view/matrix-lab) in the CDS department.
 
 I have prior research experience with [Dr. Dhish Kumar Saxena](https://scholar.google.co.in/citations?user=cbAvO80AAAAJ&hl=en) at IIT-R in the EADAL lab, focusing on ML-assisted Constrained Multi-Objective Optimization. Our work involved enhancing diversity in reference vector based optimization algorithms using machine learning techniques.
 

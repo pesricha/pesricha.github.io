@@ -10,6 +10,9 @@ redirect_from:
 
 ## Indian Institute of Science, Bangalore
 
+* DS 295 Parallel Programming 
+* DS 285 Tensor Computations for Data Science
+* DS 207 Introduction to Natural Language Processing
 * DS 288 Numerical Methods
 * DS 284 Numerical Linear Algebra
 * DS 221 Introduction to Scalable Systems
