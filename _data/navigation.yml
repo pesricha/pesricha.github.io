@@ -5,11 +5,15 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "About"
+    url: /about/
+    
   - title: "CV"
     url: /cv/
   
   - title: "Courses"
     url: /coursework/
+
     
   # - title: "Publications"
   #   url: /publications/
@@ -26,6 +30,6 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-    
   # - title: "Guide"
   #   url: /markdown/
+    
