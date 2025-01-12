@@ -7,7 +7,7 @@ redirect_from:
   - /coursework
 ---
 
-
+------
 ## Indian Institute of Science, Bangalore
 
 * DS 295 Parallel Programming 
