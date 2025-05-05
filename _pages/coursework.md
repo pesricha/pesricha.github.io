@@ -10,7 +10,7 @@ redirect_from:
 ------
 ## Indian Institute of Science, Bangalore
 
-* DS 289 Numerical Solution of Differential Equations
+* DS 216 Machine Learning for Data Science
 * DS 295 Parallel Programming 
 * DS 285 Tensor Computations for Data Science
 * DS 207 Introduction to Natural Language Processing
