@@ -8,12 +8,8 @@ main:
   - title: "About"
     url: /about/
     
-  - title: "CV"
-    url: /cv/
-  
-  - title: "Courses"
-    url: /coursework/
-
+  - title: "Resume"
+    url: /resume/
     
   # - title: "Publications"
   #   url: /publications/
