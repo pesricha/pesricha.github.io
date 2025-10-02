@@ -7,7 +7,7 @@ author_profile: true
 
 # Naman Pesricha  
 
-📞 9213953054 • ✉️ [pesricha@gmail.com](mailto:pesricha@gmail.com)  
+✉️ [pesricha@gmail.com](mailto:pesricha@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/namanpesricha/) • [GitHub](https://github.com/pesricha/) • [Website](https://pesricha.github.io/)  
 
 ---
