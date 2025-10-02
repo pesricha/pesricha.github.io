@@ -2,7 +2,7 @@
 layout: archive
 title: "Resume"
 permalink: /resume/
-author_profile: true
+author_profile: false
 ---
 
 # Naman Pesricha  

@@ -2,7 +2,7 @@
 layout: single
 title: "📊 Data Science Visualizations"
 permalink: /visualizations/
-author_profile: true
+author_profile: false
 ---
 
 Welcome to my **Data Science Visualizations Portfolio** 🎨.  
