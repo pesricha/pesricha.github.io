@@ -78,6 +78,3 @@ The full analysis and code are available in my [GitHub Repository](https://githu
 Government of India. (2024). *District wise Number of Schools, Student Enrollment and Pass Percentage for Class X and XII in Delhi during 2023-2024*.  
 Retrieved from [data.gov.in](https://www.data.gov.in/resource/district-wise-number-schoolsstudent-enrollment-and-pass-percentage-class-x-and-xii-delhi).  
 
----
-
-✍️ *This page is part of my DS200 Research Methods coursework, showcasing exploratory data analysis of government education datasets.*
