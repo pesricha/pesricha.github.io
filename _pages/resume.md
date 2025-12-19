@@ -12,13 +12,13 @@ author_profile: false
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <a href="/assets/resume.pdf" download class="btn">
     📄 Download PDF Resume
   </a>
 </div>
 
----
+--- -->
 
 
 ## 🎓 Education  

@@ -11,8 +11,8 @@ main:
   - title: "Resume"
     url: /resume/
 
-  - title: "Visualization"
-    url: /visualizations/
+  # - title: "Visualization"
+  #   url: /visualizations/
     
   # - title: "Publications"
   #   url: /publications/
