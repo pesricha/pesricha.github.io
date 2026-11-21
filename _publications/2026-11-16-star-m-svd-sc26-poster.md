@@ -5,8 +5,7 @@ category: posters
 permalink: /publication/2026-11-16-star-m-svd-sc26-poster
 excerpt: 'Research poster on a shared-memory parallel, high-performance star-M tensor SVD for compressing large scientific datasets.'
 date: 2026-11-16
-venue: 'SC26: The International Conference for High Performance Computing, Networking, Storage, and Analysis (Research Posters)'
-citation: '&quot;High-Performance Star-M SVD for Big Data Compression.&quot; Research poster, <i>SC26: The International Conference for High Performance Computing, Networking, Storage, and Analysis</i>, 2026.'
+venue: 'SC26: The International Conference for High Performance Computing, Networking, Storage, and Analysis'
 ---
 
 **Session:** Posters Display (Research Posters, Interactive Research e-Posters, ACM SRC, Doctoral Showcase)
