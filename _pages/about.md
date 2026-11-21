@@ -9,16 +9,16 @@ redirect_from:
 
 👋 Hi there! I am Naman Pesricha.
 ======
-I am a graduate student at IISc Bangalore in the Department of Computational and Data Sciences. I completed my bachelor's degree at IIT Roorkee in the Department of Mechanical and Industrial Engineering. I am currently working with [Dr. Phani Motamarri](https://scholar.google.com/citations?user=EEQdPn4AAAAJ&hl=en) at the [MATRIX lab](https://sites.google.com/view/matrix-lab) in the CDS department. My current research interests include:
+I am a Software Engineer at Fujitsu Research of India Pvt. Ltd. (FRIPL), Bengaluru. I received my M.Tech in Computational and Data Sciences from the Indian Institute of Science (IISc), Bangalore in 2026, and my B.Tech in Mechanical Engineering from IIT Roorkee in 2023. My research interests include:
 - High Performance Computing
-- Scientific Machine Learning
+- Tensor Decompositions
+- Accelerating LLM Inference for Open Models
 - Numerical Linear Algebra
-- Tensor data computations
-- Scalable Algorithms 
+- Scalable Algorithms
+
+At IISc, I worked with [Dr. Phani Motamarri](https://scholar.google.com/citations?user=EEQdPn4AAAAJ&hl=en) at the [MATRIX lab](https://sites.google.com/view/matrix-lab) in the Department of Computational and Data Sciences. My M.Tech thesis on high-performance, distributed-memory star-M tensor SVDs was carried out in collaboration with [Argonne National Laboratory (ANL)](https://www.anl.gov/) and [Wake Forest University (WFU)](https://www.wfu.edu/). This work led to a paper at ICPP '26, a research poster at SC26, and a preprint on arXiv; see [Publications](/publications/).
 
 I have prior research experience with [Dr. Dhish Kumar Saxena](https://scholar.google.co.in/citations?user=cbAvO80AAAAJ&hl=en) at IIT-R in the EADAL lab, focusing on ML-assisted Constrained Multi-Objective Optimization. Our work involved enhancing diversity in reference vector based optimization algorithms using machine learning techniques.
-
-I also collaborated with [Dr. Sneha Singh](https://scholar.google.co.uk/citations?user=Gzei1RIAAAAJ&hl=en) at IIT-R, where we conducted research on Vibration analysis of graphene sheets using a molecular structural mechanics approach and machine learning. Our project involved modeling graphene sheets of various designs and dimensions with different compositions and dopings. We then analyzed the vibrational mode data to build a predictive model for sheet vibrations.
 
 Additionally, I have experience as a Software Development Engineer at [Truminds Software Systems](https://www.truminds.com/home), where I worked in the HW Development team, primarily focusing on Network Automation and maintaining a lightweight web app for the same purpose. I also had a brief internship with [LeapWallet](https://www.leapwallet.io/) as an Analyst, where I delved into cryptocurrencies and blockchain protocols.
 
