@@ -9,12 +9,21 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+<style>
+  .pub-list { margin-top: 1em; padding-left: 1.2em; }
+  .pub-list li { margin-bottom: 1.6em; line-height: 1.6; }
+  .pub-list .pub-venue, .pub-list .pub-venue a { font-weight: bold; color: inherit; }
+  .pub-list .pub-venue a { text-decoration: underline; }
+</style>
 
-<!-- Single list, newest first; each entry shows its type from site.publication_category -->
+<!-- One list, newest first: authors: title, venue, pages (year) DOI -->
+<ul class="pub-list">
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  <li>
+    {% if post.authors %}<i>{{ post.authors }}</i>: {% endif %}{{ post.title }},
+    <span class="pub-venue">{% if post.venueurl %}<a href="{{ post.venueurl }}">{{ post.venue }}</a>{% else %}{{ post.venue }}{% endif %}</span>{% if post.pages %}, {{ post.pages }}{% endif %}
+    ({{ post.date | date: "%Y" }})
+    {% if post.doi %}<a href="https://doi.org/{{ post.doi }}">https://doi.org/{{ post.doi }}</a>{% endif %}
+  </li>
 {% endfor %}
-
-
-
+</ul>

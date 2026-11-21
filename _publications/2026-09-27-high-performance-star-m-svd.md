@@ -5,7 +5,9 @@ category: conferences
 permalink: /publication/2026-09-27-high-performance-star-m-svd
 excerpt: 'A shared-memory parallel, high-performance implementation of the star-M tensor SVD for compressing large scientific datasets.'
 date: 2026-09-27
-venue: "Proceedings of the 55th International Conference on Parallel Processing (ICPP &rsquo;26), Singapore"
+venue: "Proceedings of the 55th International Conference on Parallel Processing (ICPP &rsquo;26)"
+pages: '282&ndash;292'
+venueurl: 'https://dl.acm.org/doi/full/10.1145/3832810.3832889'
 paperurl: 'https://dl.acm.org/doi/full/10.1145/3832810.3832889'
 doi: '10.1145/3832810.3832889'
 authors: 'Md Taufique Hussain, Grey Ballard, Aditya Devarakonda, Srinivas Eswar, <b>Naman Pesricha</b>, Vishwas Rao'

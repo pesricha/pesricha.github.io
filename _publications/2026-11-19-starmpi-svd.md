@@ -5,7 +5,8 @@ category: preprints
 permalink: /publication/2026-11-19-starmpi-svd
 excerpt: 'The first distributed-memory implementations of the star-M tensor SVDs t-SVDM-I and t-SVDM-II, generalized to N-way tensors, reaching at least 70% parallel efficiency on up to 128 nodes (6144 cores).'
 date: 2026-11-19
-venue: 'arXiv:2611.26451 [cs.DC]'
+venue: 'arXiv preprint'
+venueurl: 'https://arxiv.org/abs/2611.26451'
 paperurl: 'https://arxiv.org/pdf/2611.26451'
 doi: '10.48550/arXiv.2611.26451'
 authors: '<b>Naman Pesricha</b>, Grey Ballard, Srinivas Eswar, Md Taufique Hussain, Vishwas Rao, Phani Motamarri'
